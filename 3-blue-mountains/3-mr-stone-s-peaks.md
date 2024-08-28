@@ -23,3 +23,15 @@
 - Climb back up along the clouds to get back to the upper level, then proceed right, passing all the lava balls by using the hanging ability on the ledges. You’ll eventually come to a few swinging spiky balls. Punch the first one and proceed past it. Punch the second one and fall down the gap below it, where you’ll find the sixth cage (avoid the 3 stone dogs which appear). Climb back up and proceed right to complete the stage.
 
 - You can meet the Magician in this stage. When you first start, continue travelling until you reach a slippery slope with several Antitoons trying to snap at you. Reach the end of the slope, then go in the first pit you see (it will have a vanishing cloud). The Magician is hiding there. In this bonus level, you must collect 13 Tings in 20 seconds. The main gimmick here is bouncing clouds. You don’t climb in this bonus level, but time is much shorter here than in other levels, so be quick!
+
+### Stage 5
+
+> **Note:** This stage can only be visited once.
+
+- In this stage, you’ll fight **Mr. Stone**. He attacks either by hitting the ground and causing lava rocks to fall on you, though he may catch and throw them also. He can also call forth his stone dogs (weaker than normal), or at a later point when his health is low enough, he will shoot flames at you, which can also cause clouds to appear, which will be useful later. To attack him you must hit the top of the totem pole which is in the middle of the area by either using a lava rock, and later clouds. Mr. Stone requires 8 hits to be defeated. 
+
+### Stage 6
+
+> **Note:** This stage can only be visited once. This is also the last stage Betilla the Fairy appears in.
+
+You’ll meet **Betilla the Fairy** again; this time, she will give you **the running ability**. With this new ability and your helicopter, reach the exit sign.
